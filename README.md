@@ -20,4 +20,5 @@ https://imagecdn3.luxnet.ua/tv24/resources/photos/news/610x344_DIR/201706/835231
 It is ransomware! Because when their mail was not blocked, we bought 1 key - and receive key that worked!
 
 1Mz7153HMuxXTuR2R1t78mGSdzaAtNbBWX - this is on the monitor red text
+
 2afc76af-5cc2-11e7-a303-881032d40cc6 - bought key
