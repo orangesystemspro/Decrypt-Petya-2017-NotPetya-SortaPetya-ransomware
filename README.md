@@ -22,3 +22,6 @@ It is ransomware! Because when their mail was not blocked, we bought 1 key - and
 1Mz7153HMuxXTuR2R1t78mGSdzaAtNbBWX - this is BTC wallet, where we paid
 
 2afc76af-5cc2-11e7-a303-881032d40cc6 - bought key, they send us, and it worked (all files were decrypted)
+
+File we sent 
+http://savepic.ru/14682284.jpg
